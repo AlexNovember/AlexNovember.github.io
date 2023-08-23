@@ -457,7 +457,7 @@ p {
 }
 
 .logo:hover {
-    opacity: 0.6;
+    filter:  sepia(1) hue-rotate(290deg) saturate(100);
 }
   
     
