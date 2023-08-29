@@ -71,7 +71,7 @@ ul {
     position: absolute;
     right: 0px;
     max-width: 232px;
-    margin-top: 27px;
+    margin-top: 25px;
     z-index: 1;
     padding: 32px;
     transform: scaleY(0);
@@ -493,7 +493,6 @@ ul {
 }
 
 .footer-logo {
-    display: inline-block;
     display: flex;
     justify-content: center;
     align-items: center;
