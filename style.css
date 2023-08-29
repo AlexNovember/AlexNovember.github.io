@@ -61,7 +61,7 @@ p {
 
 /* -------menu-------------- */
  
-nav ul {
+ul {
    list-style: none;
 }
     
@@ -71,7 +71,7 @@ nav ul {
     position: absolute;
     right: 0px;
     max-width: 232px;
-    margin-top: 25px;
+    margin-top: 27px;
     z-index: 1;
     padding: 32px;
     transform: scaleY(0);
